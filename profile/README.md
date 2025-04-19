@@ -32,7 +32,7 @@ Connect with us on:
   
 ## License
 
-All our projects are licensed under the [GPL v2.0 License](https://github.com/Starlight-Community-Network/.github/blob/main/LICENSE) Unless stated Otherwise.
+All our projects are licensed under the [AGPL v3.0 License](https://github.com/Starlight-Community-Network/.github/blob/main/LICENSE) Unless stated Otherwise.
 
 ## Acknowledgments
 
