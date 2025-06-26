@@ -19,13 +19,13 @@ Here are some of the key repositories we are working on right now:
 ## Join Our Community
 
 Connect with us on:
-<!--[Our Site](https://starlightcommunity.network)-->
+- [Our Site](https://starlightcommunity.network)
 - [Discord](https://discord.gg/BHz2aHuppC)
 - [Pixelfed](https://pixelfed.social/StarlightGaming)
 - [Mastodon](@StarlightGaming@mastodon.online)
 - [YouTube](https://www.youtube.com/@ShimmeringCommunity)
 > [!CAUTION]
-> We value a respectful and inclusive community. Please refer to our [Rules](https://fallback.starlightcommunity.network/rules).
+> We value a respectful and inclusive community. Please refer to our [Rules](https://www.starlightcommunity.network/rules).
 
 ## Documentation
 
