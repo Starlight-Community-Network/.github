@@ -9,7 +9,6 @@ Here are some of the key repositories we are working on right now:
 - **[SCN Uptime Monitor](https://github.com/Starlight-Community-Network/SCN-Status)** - A Uptime monitor and status page for SCN, powered by @upptime.
 - **[Migration Page](https://github.com/Starlight-Community-Network/SCN-Redirect)** - Our Migration page as we make the move to starlightcommmunity.network.
 - **[SCN Community Docs Project](https://github.com/Starlight-Community-Network/SCN-Docs)** - Our New Community Docs.
-- **(New!) [Shimmering Community Portal](https://github.com/Starlight-Community-Network/SCN-Internal-Portal)** - Our replacement for our Notion Site.
 - and we have more to come from [@NightFuryVG](https://github.com/NightFuryVG)
 
 ## How to Contribute
@@ -26,10 +25,6 @@ Connect with us on:
 - [YouTube](https://www.youtube.com/@ShimmeringCommunity)
 > [!CAUTION]
 > We value a respectful and inclusive community. Please refer to our [Rules](https://www.starlightcommunity.network/rules).
-
-## Documentation
-
-- [Dev Portal](https://dev.starlightcommunity.network)
   
 ## License
 
