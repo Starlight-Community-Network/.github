@@ -33,7 +33,7 @@ All our projects are licensed under the [GPL v3.0 License](https://github.com/St
 
 ## Acknowledgments
 
-Special thanks to [@NightFuryVG](https://github.com/NightFuryVG) for their contributions.
+
 
 <!--
 
