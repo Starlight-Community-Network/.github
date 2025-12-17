@@ -8,12 +8,13 @@ Here are some of the key repositories we are working on right now:
 
 - **[SCN Uptime Monitor](https://github.com/Starlight-Community-Network/SCN-Status)** - A Uptime monitor and status page for SCN, powered by @upptime.
 - **[Migration Page](https://github.com/Starlight-Community-Network/SCN-Redirect)** - Our Migration page as we make the move to starlightcommmunity.network.
-- **[SCN Community Docs Project](https://github.com/Starlight-Community-Network/SCN-Docs)** - Our New Community Docs.
-- and we have more to come from [@NightFuryVG](https://github.com/NightFuryVG)
+- **[SCN Community Docs Project](https://github.com/Starlight-Community-Network/SCN-Docs-V2)** - Our New Community Docs.
+- **[The i n d e x](https://github.com/Starlight-Community-Network/SCN-Index)** - our "link in the bio" type page.
+- and we have more to come!!!
 
 ## How to Contribute
 > [!NOTE]
-> As of Right now we don't have anything to help contribute to... but like we said we have more to come from [@NightFuryVG](https://github.com/NightFuryVG) so stay tune
+> we'll provide info of how to contribute at a later date stay tuned! 
 
 ## Join Our Community
 
